@@ -1,3 +1,11 @@
+---
+layout: post
+title: "About the Author"
+author: "Paul Le"
+categories: facts
+tags: [sample]
+image: cuba-4.jpg
+---
 Here are the steps to set up git so that you can use VS Code directly to work with the site you are developing.
 This applies specifically when you are working locally on a Gatsby app using VS Code as your IDE/Editor, and you want to host it on GitHub Pages using a custom domain name.
 
