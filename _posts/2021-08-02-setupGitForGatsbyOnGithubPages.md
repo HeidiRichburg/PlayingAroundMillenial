@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Author"
+title: "Set Up Git for Gatsby and GitHub Pages Custom Domain Hosting"
 author: "Heidi"
 categories: facts
 tags: [githubpages]
