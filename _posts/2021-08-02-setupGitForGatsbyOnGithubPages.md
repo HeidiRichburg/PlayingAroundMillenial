@@ -4,7 +4,7 @@ title: "Set Up Git for Gatsby and GitHub Pages Custom Domain Hosting"
 author: "Heidi"
 categories: facts
 tags: [githubpages]
-image: cuba-4.jpg
+image: arctic-5.jpg
 ---
 Here are the steps to set up git so that you can use VS Code directly to work with the site you are developing.
 This applies specifically when you are working locally on a Gatsby app using VS Code as your IDE/Editor, and you want to host it on GitHub Pages using a custom domain name.
