@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Heidi"
 categories: facts
-tags: [sample]
+tags: [githubpages]
 image: cuba-4.jpg
 ---
 Here are the steps to set up git so that you can use VS Code directly to work with the site you are developing.
